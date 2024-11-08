@@ -1,0 +1,34 @@
+{
+  "favorites": [
+    {
+      "id": "2466",
+      "city": "Mumbai",
+      "temp": "27.99",
+      "description": "smoke"
+    },
+    {
+      "id": "3628",
+      "city": "Delhi",
+      "temp": "22.05",
+      "description": "mist"
+    },
+    {
+      "id": "8971",
+      "city": "Delhi",
+      "temp": "20.05",
+      "description": "fog"
+    },
+    {
+      "id": "afa2",
+      "city": "Delhi",
+      "temp": "20.05",
+      "description": "fog"
+    },
+    {
+      "id": "1c15",
+      "city": "Delhi",
+      "temp": "20.05",
+      "description": "fog"
+    }
+  ]
+}
